@@ -15,7 +15,8 @@ Embark on a journey of mastering time series classification in this homework. Di
 
 ## Data Visualization 🌐
 
-
+![Features per classes](https://github.com/TiaSirio/Time-Series-Classification/blob/main/FeaturesPerClasses.png)
+![Single feature per classes](https://github.com/TiaSirio/Time-Series-Classification/blob/main/SingleFeaturePerClasses.png)
 
 ## University Course 📖
 
